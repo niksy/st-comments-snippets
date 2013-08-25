@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<!-- @todo ${1:What should we do?} -->]]></content>
+	<tabTrigger>todo</tabTrigger>
+	<scope>text.html</scope>
+	<description>TODO</description>
+</snippet>

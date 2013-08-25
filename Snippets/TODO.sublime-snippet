@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @todo ${1:What should we do?}
+ */
+$0]]></content>
+	<tabTrigger>todo</tabTrigger>
+	<scope>source.css, source.scss, source.js</scope>
+	<description>TODO</description>
+</snippet>
